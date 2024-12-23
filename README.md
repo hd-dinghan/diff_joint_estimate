@@ -43,3 +43,4 @@ Since it uses BERT, run it on GPU or try dropping `bert_avg` feature if running 
 ```
 sh src/scripts/train_model_sample.sh
 ```
+加油⛽️
